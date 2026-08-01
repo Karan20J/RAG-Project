@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+langchain-mistralai
+langchain-core
+langchain-chroma
+langchain-community
+langchain-text-splitters
+chromadb
+pypdf
