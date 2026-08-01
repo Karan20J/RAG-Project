@@ -1,8 +1,0 @@
-openai>=1.0.0
-mistralai
-python-dotenv
-requests
-pydantic
-tqdm
-numpy
-pandas
